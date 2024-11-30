@@ -4,3 +4,6 @@
 clone this repository and run in bash
 
 ` npm run dev `
+
+## Screen Shot
+
